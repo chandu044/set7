@@ -12,7 +12,7 @@ class Ideone
 		int n,i;
 		Scanner s=new Scanner(System.in);
 		String s1=s.next();
-		a=nextInt();
+		n=s.nextInt();
 		char[] a=s1.toCharArray();
 		for(i=0;i<n;i++)
 		{
