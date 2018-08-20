@@ -11,7 +11,7 @@ class Ideone
 	{
 		String s1;
 		Scanner s=new Scanner(System.in);
-		s1=s.next();
+		s1=s.nextLine();
 		if(System.out.printf(s1).equals(null)){}
 	}
 }
